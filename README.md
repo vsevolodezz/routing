@@ -32,14 +32,14 @@
 <tbody>
 <tr><td>⚡ Быстрая установка</td><td><a href="https://routing.help">routing.help</a></td><td>Редирект на DEFAULT-диплинк, открыть на устройстве</td></tr>
 <tr><td colspan="3"><b>DEFAULT</b> — полный профиль: RU/BY direct, YouTube/Telegram/GitHub через прокси, реклама блокируется</td></tr>
-<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 <tr><td colspan="3"><b>WHITELIST</b> — direct только для сервисов и IP из белых списков РФ; всё остальное через прокси</td></tr>
-<tr><td>🔗 WHITELIST.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/WHITELIST.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 WHITELIST.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/WHITELIST.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 WHITELIST.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/WHITELIST.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 WHITELIST.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/WHITELIST.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 <tr><td colspan="3"><b>JSONSUB</b> — минимальный профиль: только DNS + кастомные geoip/geosite, без встроенных правил</td></tr>
-<tr><td>🔗 JSONSUB.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/JSONSUB.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 JSONSUB.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/JSONSUB.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 JSONSUB.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/JSONSUB.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 JSONSUB.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/HAPP/JSONSUB.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 </tbody>
 </table>
 
@@ -50,14 +50,14 @@
 <tbody>
 <tr><td>⚡ Быстрая установка</td><td><a href="https://incy.routing.help">incy.routing.help</a></td><td>Редирект на DEFAULT-диплинк, открыть на устройстве</td></tr>
 <tr><td colspan="3"><b>DEFAULT</b> — полный профиль: RU/BY direct, YouTube/Telegram/GitHub через прокси, реклама блокируется</td></tr>
-<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 <tr><td colspan="3"><b>WHITELIST</b> — direct только для сервисов и IP из белых списков РФ; всё остальное через прокси</td></tr>
-<tr><td>🔗 WHITELIST.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/WHITELIST.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 WHITELIST.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/WHITELIST.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 WHITELIST.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/WHITELIST.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 WHITELIST.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/WHITELIST.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 <tr><td colspan="3"><b>JSONSUB</b> — минимальный профиль: только DNS + кастомные geoip/geosite, без встроенных правил</td></tr>
-<tr><td>🔗 JSONSUB.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/JSONSUB.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
-<tr><td>📊 JSONSUB.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/JSONSUB.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+<tr><td>🔗 JSONSUB.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/JSONSUB.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 JSONSUB.JSON</td><td><a href="https://raw.githubusercontent.com/vsevolodezz/roscomvpn-routing/refs/heads/main/INCY/JSONSUB.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
 </tbody>
 </table>
 
