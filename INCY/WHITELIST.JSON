@@ -1,9 +1,7 @@
 {
-  "Name": "RoscomVPN Whitelist",
+  "Name": "NetFortress VPN",
   "GlobalProxy": "true",
-  "UseChunkFiles": "true",
-  "RemoteDns": "8.8.8.8",
-  "DomesticDns": "77.88.8.8",
+  "RouteOrder": "block-proxy-direct",
   "RemoteDNSType": "DoH",
   "RemoteDNSDomain": "https://8.8.8.8/dns-query",
   "RemoteDNSIP": "8.8.8.8",
@@ -17,23 +15,13 @@
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
   },
-  "RouteOrder": "block-proxy-direct",
-  "DirectSites": [
-    "geosite:private",
-    "geosite:whitelist"
-  ],
-  "DirectIp": [
-    "geoip:private",
-    "geoip:whitelist"
-  ],
+  "DirectSites": [],
+  "DirectIp": [],
   "ProxySites": [],
   "ProxyIp": [],
-  "BlockSites": [
-    "geosite:win-spy",
-    "geosite:torrent",
-    "geosite:category-ads"
-  ],
+  "BlockSites": [],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
-  "FakeDNS": "false"
+  "FakeDNS": "false",
+  "UseChunkFiles": "true"
 }
