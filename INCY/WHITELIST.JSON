@@ -1,5 +1,5 @@
 {
-  "Name": "NetFortress VPN",
+  "Name": "NetFortressVPN",
   "GlobalProxy": "true",
   "RouteOrder": "block-proxy-direct",
   "RemoteDNSType": "DoH",
